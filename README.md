@@ -13,4 +13,4 @@ Although it focuses solely on the front-end, it provides a solid foundation for 
 
 <strong>NOTE:</strong> This project focuses on the front-end aspects of an e-commerce website. It does not include any back-end functionality or database integration.
 
-<p>You can view the live version of the website <a href="">here</a></p>
+<p>You can view the live version of the website <a href="https://himabindu-120.github.io/Ecommerce-Store/">here</a>.</p>

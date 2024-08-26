@@ -12,3 +12,5 @@ The front-end design includes sections typically found on e-commerce sites, such
 Although it focuses solely on the front-end, it provides a solid foundation for developing a full-featured e-commerce platform.
 
 <strong>NOTE:</strong> This project focuses on the front-end aspects of an e-commerce website. It does not include any back-end functionality or database integration.
+
+<p>You can view the live version of the website <a href="">here</a></p>
